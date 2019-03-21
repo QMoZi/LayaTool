@@ -25,6 +25,6 @@ Gizmos.drawLine(new Vector3(0, 0, 0), new Vector3(3, 3, 3));// 画起点(0, 0, 0
 Gizmos.drawCirle(new Vector3(0, 0, 0), 3);// 以中点(0,0,0)画半径为3的正方体
 ```
 
-示例工程Laya 1.7.20.2beata
+***示例工程Laya 1.7.20.2beata***
 
 ...
