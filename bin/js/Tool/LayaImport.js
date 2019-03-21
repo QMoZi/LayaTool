@@ -1,0 +1,19 @@
+var Vector2 = Laya.Vector2;
+var Vector3 = Laya.Vector3;
+var Vector4 = Laya.Vector4;
+var Quaternion = Laya.Quaternion;
+var Sprite3D = Laya.Sprite3D;
+var Transform3D = Laya.Transform3D;
+var MeshSprite3D = Laya.MeshSprite3D;
+var SkinnedMeshSprite3D = Laya.SkinnedMeshSprite3D;
+var MeshRender = Laya.MeshRender;
+;
+var Scene = Laya.Scene;
+var Camera = Laya.Camera;
+var Rigidbody = Laya.Rigidbody;
+var Collider = Laya.Collider;
+var BoxCollider = Laya.BoxCollider;
+var SphereCollider = Laya.SphereCollider;
+var MeshCollider = Laya.MeshCollider;
+var Animator = Laya.Animator;
+//# sourceMappingURL=LayaImport.js.map
